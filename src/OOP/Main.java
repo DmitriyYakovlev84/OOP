@@ -18,7 +18,7 @@ public class Main {
                 50, 60, 70, 80, 90);
 
 
-        Ravenclaw chou = new Ravenclaw("Чжоу Чанг", 15, 25,
+        Ravenclaw chou = new Ravenclaw("Чжоу  Чанг", 15, 25,
                 35, 45, 55, 65);
 
         Ravenclaw padma = new Ravenclaw("Падма Патил", 25, 35,

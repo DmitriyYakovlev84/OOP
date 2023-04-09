@@ -11,7 +11,7 @@ public class Slytherin extends Hogwarts {
     private final int lustForPower;
 
 
-    public Slytherin(String nameOfStudent, int powerOfMagic, int distanceOfTransgression,
+    public Slytherin(String nameOfStudent,int powerOfMagic, int distanceOfTransgression,
                      int cunning, int resoluteness, int ambition, int resourcefulness, int lustForPower) {
         super(nameOfStudent, powerOfMagic, distanceOfTransgression);
         this.cunning = cunning;

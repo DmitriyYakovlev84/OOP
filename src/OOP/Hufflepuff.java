@@ -9,7 +9,7 @@ public class Hufflepuff extends Hogwarts {
     private final int honesty;
 
 
-    public Hufflepuff(String nameOfStudent, int powerOfMagic, int distanceOfTransgression,
+    public Hufflepuff(String nameOfStudent,int powerOfMagic, int distanceOfTransgression,
                       int industrious, int loyalty, int honesty) {
         super(nameOfStudent, powerOfMagic, distanceOfTransgression);
         this.industrious = industrious;
